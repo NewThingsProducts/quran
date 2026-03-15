@@ -1,0 +1,15 @@
+{
+ "surahs":[
+  {
+   "number":1,
+   "name":"الفاتحة",
+   "englishName":"Al-Fatiha",
+   "ayahs":[
+    {
+     "number":1,
+     "text":"بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ"
+    }
+   ]
+  }
+ ]
+}
