@@ -1,0 +1,16 @@
+<LinearLayout
+ android:orientation="vertical"
+ android:gravity="center"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent">
+
+ <TextView
+  android:text="Quran Pro"
+  android:textSize="28sp"
+  android:textStyle="bold"/>
+
+ <Button
+  android:id="@+id/btnReadQuran"
+  android:text="Read Quran"/>
+
+</LinearLayout>
